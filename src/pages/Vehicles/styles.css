@@ -1,0 +1,140 @@
+.profile-container {
+    width: 100%;
+    padding: 0 30px;
+    margin: 32px auto;
+}
+
+.profile-container header {
+    display: inline-flex;
+    align-items: center;
+    top: 0px;
+    width: 100%;
+}
+
+.profile-container header img {
+    height: 80px;
+    width: 80%;
+    max-width: 80%;
+    top: 0px;
+}
+
+.profile-container header button {
+    height: 80px;
+    width: 20%;
+    max-width: 80px;
+    border-radius: 500px;
+    border: 2px solid #dcdce6;
+    background: transparent;
+    transition: border-color 0.2s;
+    color: #B8BEDD;
+    top: 0px;
+}
+
+.profile-container header button:hover {
+    border-color: #999;
+}
+
+.profile-container h3.title1 {
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.profile-container section {
+    margin-top: 0px;
+    width: 100%;
+}
+
+.profile-container section.form {
+    width: 100%;
+    display: contents;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profile-container section.form form {
+    margin-top: 0px;
+}
+
+.profile-container section.form input {
+    width: 80%;
+    margin-bottom: 0px;
+    height: 80px;
+}
+
+.profile-container section.form form button {
+    height: 80px;
+    width: 20%;
+    max-width: 80px;
+    border-radius: 500px;
+    border: 2px solid #dcdce6;
+    background: transparent;
+    transition: border-color 0.2s;
+    color: #B8BEDD;
+    top: 0px;
+}
+
+.profile-container section.form form button:hover {
+    border-color: #999;
+}
+
+.profile-container hr {
+    margin-top: 16px;
+    color: #B8BEDD;
+    border-style: double;
+    max-width: 95%;
+}
+
+.profile-container h3.title2 {
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.profile-container ul {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 14px;
+    list-style: none;
+}
+
+.profile-container ul li {
+    background: #FFF;
+    border-radius: 8px;
+    padding: 30px;
+    line-height: 1em;
+    display: list-item;
+    margin-bottom: 0px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    max-width: 95%;
+}
+
+.profile-container ul li p {
+    width: 20px;
+    height: 19px;
+    left: 100px;
+    top: calc(50% - 19px/2 - 170.5px);
+    margin-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: unset;
+    font-size: 20px;
+    color: #787878;
+}
+
+.profile-container ul li button {
+    color: #B8BEDD;
+    border: 0px;
+    background: transparent;
+    position: absolute;
+    right: 30px;
+    top: 24px;
+}
+
+input, button, textarea {
+    font: 400 18px Baloo Thambi 2, sans-serif;
+}
