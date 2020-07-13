@@ -19,9 +19,9 @@
 }
 
 .profile-container header button {
-    height: 80px;
+    height: 55px;
     width: 20%;
-    max-width: 80px;
+    max-width: 55px;
     border-radius: 500px;
     border: 2px solid #dcdce6;
     background: transparent;
@@ -60,13 +60,13 @@
 .profile-container section.form input {
     width: 80%;
     margin-bottom: 0px;
-    height: 80px;
+    height: 55px;
 }
 
 .profile-container section.form form button {
-    height: 80px;
+    height: 55px;
     width: 20%;
-    max-width: 80px;
+    max-width: 55px;
     border-radius: 500px;
     border: 2px solid #dcdce6;
     background: transparent;
