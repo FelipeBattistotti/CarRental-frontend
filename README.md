@@ -25,6 +25,7 @@ Developed with: <strong>Node.js</strong>
 <br/>
 
 To Install: <strong>npm install</strong>
+<br/>
 To Execute: <strong>npm start</strong>
 <br/>
 
@@ -42,9 +43,9 @@ JSON Example --> {"email": "nome@email.com","pwd": "abc123"}
 <br/>
 <strong>GET vehicle</strong> https://carrental-backend.herokuapp.com/vehicle
 <br/>
-<strong>GET vehicle (PARAM page)</strong> https://carrental-backend.herokuapp.com/vehicle?page=1
+<strong>GET vehicle (Query Parameters: page)</strong> https://carrental-backend.herokuapp.com/vehicle?page=1
 <br/>
-<strong>GET vehicle (PARAM page & plate)</strong> https://carrental-backend.herokuapp.com/vehicle?page=1&plate=FGB1122
+<strong>GET vehicle (Query Parameters: page & plate)</strong> https://carrental-backend.herokuapp.com/vehicle?page=1&plate=FGB1122
 <br/>
 <br/>
 <strong>POST vehicle</strong> https://carrental-backend.herokuapp.com/vehicle
@@ -68,7 +69,13 @@ Developed with: <strong>React</strong>
 <br/>
 
 To Install: <strong>npm install</strong>
+<br/>
 To Execute: <strong>npm start</strong>
+<br/>
+<br/>
+
+- External link Web App: [https://carrental-frontend.herokuapp.com](https://carrental-frontend.herokuapp.com)
+<br/>
 <br/>
 
 Snapshots:
