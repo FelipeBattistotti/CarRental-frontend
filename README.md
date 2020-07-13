@@ -22,10 +22,9 @@ This project aims to present a Web Application that will allow the consultation 
 
 Developed with: <strong>Node.js</strong>
 <br/>
-
-To Install: <strong>npm install</strong>
 <br/>
 
+To Install: <strong>npm install</strong>
 To Execute: <strong>npm start</strong>
 <br/>
 
@@ -35,9 +34,10 @@ Test URL Examples (Heroku):
 <br/>
 <strong>GET user</strong> https://carrental-backend.herokuapp.com/user
 <br/>
+<br/>
 <strong>POST user</strong> https://carrental-backend.herokuapp.com/user
 <br/>
-<strong>JSON Example --> </strong> {"email": "nome@email.com","pwd": "abc123"}
+JSON Example --> {"email": "nome@email.com","pwd": "abc123"}
 <br/>
 <br/>
 <strong>GET vehicle</strong> https://carrental-backend.herokuapp.com/vehicle
@@ -46,14 +46,18 @@ Test URL Examples (Heroku):
 <br/>
 <strong>GET vehicle (PARAM page & plate)</strong> https://carrental-backend.herokuapp.com/vehicle?page=1&plate=FGB1122
 <br/>
+<br/>
 <strong>POST vehicle</strong> https://carrental-backend.herokuapp.com/vehicle
 <br/>
-<strong>JSON Example --> </strong> Content: {"plate": "JJJ335"}; (Header: Authorization - Value: <ID user>)
+<strong>JSON Example --> </strong> Content: {"plate": "JJJ335"}; (Header: Authorization - Value: (ID user))
 <br/>
 <br/>
 <strong>DELETE vehicle</strong> https://carrental-backend.herokuapp.com/vehicle/1
 <br/>
-(Header: Authorization - Value: <ID user>)
+(Header: Authorization - Value: (ID user))
+
+<br/>
+<strong>-- See JSON Files --</strong>
 
 <br/>
 
@@ -61,10 +65,9 @@ Test URL Examples (Heroku):
 
 Developed with: <strong>React</strong>
 <br/>
-
-To Install: <strong>npm install</strong>
 <br/>
 
+To Install: <strong>npm install</strong>
 To Execute: <strong>npm start</strong>
 <br/>
 
@@ -80,13 +83,13 @@ Snapshots:
 
 <br/>
 
-# Videos
+<!--# Videos-->
 <!--
 - [Backend: Car Rental - Web App (Parte 1)](https://youtu.be/K7iKAAvOhL4)
 - [Backend: Car Rental - Web App (Parte 2)](https://youtu.be/iY7X5dLG4xE)
--->
-<br/>
 
+<br/>
+-->
 # JSON Files
 
 - [Insomnia JSON - Localhost](https://drive.google.com/file/d/1MHO8500fa_MlngOeHrVf5zUF0PcQaAiP/view?usp=sharing)
