@@ -76,7 +76,6 @@ To Execute: <strong>npm start</strong>
 
 - External link Web App: [https://carrental-frontend.herokuapp.com](https://carrental-frontend.herokuapp.com)
 <br/>
-<br/>
 
 Snapshots:
 
