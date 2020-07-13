@@ -81,11 +81,8 @@ To Execute: <strong>npm start</strong>
 Snapshots:
 
 <p align="center">
-  <!--
   <img alt="Snapshot1" src=".github/snapshot1.png">
   <img alt="Snapshot2" src=".github/snapshot2.png">
-  <img alt="Snapshot3" src=".github/snapshot3.png">
-  -->
 </p>
 
 <br/>
