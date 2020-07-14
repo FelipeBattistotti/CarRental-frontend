@@ -54,8 +54,9 @@ export default function Vehicles () {
             loadVehicles();
 
             addToast('Veículo cadastrado com sucesso!', { appearance: 'success' });
+
             history.push('/vehicles');
-            
+
         } catch (err) {
             if (plate.length > 7) { // greater than 7
                 addToast('A placa do veículo deve possuir 7 caracteres, tente novamente.', { appearance: 'error' });

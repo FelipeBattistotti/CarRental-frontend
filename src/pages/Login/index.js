@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
-import { useHistory } from 'react-router-dom';
+import { Link, useHistory } from 'react-router-dom';
 import { useToasts } from 'react-toast-notifications';
+import { FiPlusCircle } from 'react-icons/fi';
 
 import api from '../../services/api';
 
@@ -47,6 +48,11 @@ export default function Login() {
                         onChange={e => setPWD(e.target.value)}
                     />
                     <button id="loginButton" className="button" type="submit">Entrar</button>
+
+                    <Link className="link-register" to="/register">
+                        <FiPlusCircle size={20} color="#54478C" />
+                        Cadastrar-se
+                    </Link>
                 </form>
             </section>
         </div>
