@@ -38,7 +38,7 @@ Test URL Examples (Heroku):
 <br/>
 <strong>POST user</strong> https://carrental-backend.herokuapp.com/user
 <br/>
-JSON Example --> {"email": "nome@email.com","pwd": "abc123"}
+JSON Example --> {"name": "Usuário 1","email": "nome@email.com","pwd": "abc123"}
 <br/>
 <br/>
 <strong>GET vehicle</strong> https://carrental-backend.herokuapp.com/vehicle
