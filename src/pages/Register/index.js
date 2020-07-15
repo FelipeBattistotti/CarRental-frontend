@@ -47,7 +47,7 @@ export default function Register() {
             <section className="form">
                 <header>
                     <img  src={registerLogoImg} alt="registerLogo" className="img" />
-                    <button onClick={handleLogin} type="button" title="Sair">
+                    <button onClick={handleLogin} type="button" title="Voltar">
                         <FiChevronLeft size={30} />
                     </button>
                 </header>
