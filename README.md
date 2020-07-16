@@ -87,13 +87,15 @@ Snapshots:
 
 <br/>
 
-<!--# Videos-->
-<!--
-- [Backend: Car Rental - Web App (Parte 1)](https://youtu.be/)
-- [Backend: Car Rental - Web App (Parte 2)](https://youtu.be/)
+# Videos
+
+- [Car Rental - Web App (Backend)](https://youtu.be/HDRh3lllYPg)
+- [Car Rental - Web App (Frontend)](https://youtu.be/1CVqcVEe6X8)
+- [Car Rental - Web App (Heroku + Insomnia + GitHub)](https://youtu.be/5h2pbiXWvuk)
+- [Car Rental - Web App (Demo)](https://youtu.be/tfGi90whNQ0)
 
 <br/>
--->
+
 # JSON Files
 
 - [Insomnia JSON - Localhost](https://drive.google.com/file/d/1DMWEZpj8YdDkAnGZfzQ9l2fTxEXzAcy7/view?usp=sharing)
